@@ -1,0 +1,10 @@
+diamond_shovel: oil pump, electric gold pan,
+gold_shovel: eletric dust washer
+flint_and_steel: electric furnace, coal generator, refinary, lava generator, combustion reaction, eletric smeltery
+stone_pickaxe: eletric ore grinder,
+iron_pickaxe: eletric iron puverizer,
+gold_pickaxe: freezer
+diamond_pickaxe: carbon press,
+gold_hoe: bio reactor, food fabricator, food composter
+gold_chestplate: auto enchanter,
+diamond_chestplate: auto disenchanter,
